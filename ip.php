@@ -1,10 +1,10 @@
 <?php
 
-# ip.php by KasRoudra
+# ip.php by touchmycrazyredhat
 # Author   : KasRoudra
-# Github   : https://github.com/KasRoudra
-# Email    : kasroudrard@gmail.com
-# Messenger: https//m.me/KasRoudra
+# Github   : https://github.com/touchmycrazyredhat
+# Email    : touchmycrazyredhat@gmail.com
+# Messenger: https//m.me/
 # Date     : 5-09-2021
 
 error_reporting(E_ERROR | E_PARSE);
