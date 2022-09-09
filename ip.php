@@ -1,7 +1,7 @@
 <?php
 
 # ip.php by touchmycrazyredhat
-# Author   : KasRoudra
+# Author   : touchmycrazyredhat
 # Github   : https://github.com/touchmycrazyredhat
 # Email    : touchmycrazyredhat@gmail.com
 # Messenger: https//m.me/
